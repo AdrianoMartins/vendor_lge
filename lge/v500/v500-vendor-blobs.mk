@@ -170,5 +170,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
     vendor/lge/v500/proprietary/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
     vendor/lge/v500/proprietary/lib/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/lge/v500/proprietary/lib/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so
+    vendor/lge/v500/proprietary/lib/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/lge/v500/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so
     

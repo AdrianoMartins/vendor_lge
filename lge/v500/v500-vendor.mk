@@ -31,4 +31,8 @@ DEVICE_PACKAGE_OVERLAYS := vendor/lge/v500/overlay
 
 PRODUCT_PACKAGES += libtime_genoff
 
+# Apps
+PRODUCT_PACKAGES += \
+    TimeService
+
 $(call inherit-product, vendor/lge/v500/v500-vendor-blobs.mk)
