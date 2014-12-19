@@ -152,6 +152,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/v500/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
     vendor/lge/v500/proprietary/lib/liblgftmitem.so:system/lib/liblgftmitem.so \
+    vendor/lge/v500/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/lge/v500/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
+    vendor/lge/v500/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/lge/v500/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/v500/proprietary/lib/libxt_v02.so:system/lib/libxt_v02.so \
+    vendor/lge/v500/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
+    vendor/lge/v500/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
     vendor/lge/v500/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/lge/v500/proprietary/lib/egl/libEGL_adreno.so:system/lib/egl/libEGL_adreno.so \
     vendor/lge/v500/proprietary/lib/egl/libGLESv1_CM_adreno.so:system/lib/egl/libGLESv1_CM_adreno.so \
