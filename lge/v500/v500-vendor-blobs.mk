@@ -142,7 +142,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/v500/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/v500/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
-    vendor/lge/v500/proprietary/xbin/busybox:system/xbin/busybox \
     vendor/lge/v500/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
     vendor/lge/v500/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
     vendor/lge/v500/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
