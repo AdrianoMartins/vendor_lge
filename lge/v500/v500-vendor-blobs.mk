@@ -179,7 +179,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/lge/v500/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/lge/v500/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
-    vendor/lge/v500/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
-    vendor/lge/v500/proprietary/lib/libchromatix_ov5693_default_video.so:system/lib/libchromatix_ov5693_default_video.so \
-    vendor/lge/v500/proprietary/lib/libchromatix_ov5693_preview.so:system/lib/libchromatix_ov5693_preview.so \
-    vendor/lge/v500/proprietary/lib/libchromatix_ov5693_zsl.so:system/lib/libchromatix_ov5693_zsl.so
+    vendor/lge/v500/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so
